@@ -2,6 +2,7 @@
   "name": "cvstom",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://soundswarm.github.io/forms",
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
